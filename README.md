@@ -1,2 +1,2 @@
 # Edubridge-Data-Analytics
-## Puthon project
+## python project
