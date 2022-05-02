@@ -1,2 +1,2 @@
 
-[EDA IPL](https://www.example.com)
+[EDA IPL](https://github.com/AishaShamon/Edubridge-Data-Analytics/tree/main/Projects/Exploratory%20data%20analysis-ipl)
