@@ -29,10 +29,20 @@ Python3,R , Data Analysis, Statistical Modeling, Data Visualization, Statistics,
     To explore how covid affect the people using Python Codes. This also give a quick insight on python codes for EDA.
 - [IPL Analysis-python](https://github.com/AishaShamon/Edubridge-Data-Analytics/tree/main/Projects/Exploratory%20data%20analysis-ipl).
     To explore the insights of IPL using Python Codes.
-- [Supermarket-Python]()
+- [Supermarket-Python](https://github.com/AishaShamon/Edubridge-Data-Analytics/tree/main/Projects/ExploratoryDataAnalysis-SuperMarket)
     To explore supermarket dataset using Python Codes to provid information about sales,profit..
 - [Superstore-R](https://github.com/AishaShamon/Edubridge-Data-Analytics/tree/main/Projects/Superstore-R)
     Determine the sales relation with the education ans also gives a quick insight on R Codes.
+##### Web Scrapping 
+- Web Scrapping : Main purpose is to scrap the data
+
+
+
+
+### Connect with me on these platforms:
+* LinkdIn : https://www.linkedin.com/in/aisha-mol-shamon-586922234/
+* Gmail : aishashamon786@gmail.com
+
 
 
 
