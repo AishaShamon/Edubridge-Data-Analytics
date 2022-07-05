@@ -4,7 +4,7 @@ This repository contains all the Projects, Competitions and Challenges of data a
 Python : Python3, NumPy, Pandas, Seaborn, Matplotlib
 R
 ## Skills
-Python3,R , Data Analysis, Statistical Modeling, Data Visualization, Statistics.
+Python3,R , Data Analysis, Statistical Modeling, Data Visualization, Statistics,Machine Learning.
 
 ### Contents 
 * Data Visualization -using Excel and Tableau :
@@ -12,10 +12,11 @@ Python3,R , Data Analysis, Statistical Modeling, Data Visualization, Statistics.
 
 
 
-* Machine Learning Case Studies 
+* Machine Learning Case Studies
+[Drug classification](ml)
+[GitHub Pages](https://pages.github.com/).
 
 
 
 
-## Projects
-Supermarket analysis using python:The object of the dataset is to predict the earning of the supermarket
+
