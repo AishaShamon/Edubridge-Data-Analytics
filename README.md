@@ -22,9 +22,10 @@ Python3,R , Data Analysis, Statistical Modeling, Data Visualization, Statistics,
 - [Breast Cancer Prediction](https://github.com/AishaShamon/Edubridge-Data-Analytics/tree/main/Projects/breast%20cancer%20-M)
   To build machine learning model to predict whether the person has breast cancer or not.
   
-  #### Exploratory Data Analysis
-  - [Covid Analysis]()
-   To explore how covid affectthe people using Python Codes. This also give a quick insight on python codes for EDA.
+  ##### Exploratory Data Analysis
+  - [Covid Analysis](https://github.com/AishaShamon/Edubridge-Data-Analytics/tree/main/Projects/Exploratory%20data%20analysis-COVID)
+   To explore how covid affect the people using Python Codes. This also give a quick insight on python codes for EDA.
+   -[IPL Analysis](
 
 
 
