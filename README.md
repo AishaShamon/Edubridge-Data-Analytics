@@ -5,5 +5,17 @@ Python : Python3, NumPy, Pandas, Seaborn, Matplotlib
 R
 ## Skills
 Python3,R , Data Analysis, Statistical Modeling, Data Visualization, Statistics.
+
+### Contents 
+* Data Visualization -using Excel and Tableau :
+
+
+
+
+* Machine Learning Case Studies 
+
+
+
+
 ## Projects
 Supermarket analysis using python:The object of the dataset is to predict the earning of the supermarket
