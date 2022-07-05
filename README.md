@@ -31,7 +31,7 @@ Python3,R , Data Analysis, Statistical Modeling, Data Visualization, Statistics,
     To explore the insights of IPL using Python Codes.
 - [Supermarket-Python]()
     To explore supermarket dataset using Python Codes to provid information about sales,profit..
-- [Superstore-R](
+- [Superstore-R](https://github.com/AishaShamon/Edubridge-Data-Analytics/tree/main/Projects/Superstore-R)
     Determine the sales relation with the education ans also gives a quick insight on R Codes.
 
 
