@@ -1,6 +1,6 @@
 ### Drug classification
 - A categorical dataset to predict the outcome of the drug that might be acccurate for the patients
-- The dataset contains details of the features of predicting ID,Marital Status,Gender,Income,Children,Education,Occupation,Home Owner,Cars,CommuteDistance,Region,Age,Purchased Bike.
+- The dataset contains details of the features of predicting 
 - Here we can split the data into two parts features and Target. Target being r and rest will be Purchased Bike features.
 In this notebook, the prediction is made  whether a person buy a bike or not using suitable ML approach.
 The ML approach applied according to the data observation
