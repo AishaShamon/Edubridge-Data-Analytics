@@ -13,7 +13,7 @@ Python3,R , Data Analysis, Statistical Modeling, Data Visualization, Statistics,
 
 
 * Machine Learning Case Studies
-[Drug classification](ml)
+- [Drug classification]()
 [GitHub Pages](https://pages.github.com/).
 
 
