@@ -1,6 +1,6 @@
 ### Analysis on covid
 - What is Project about?
-  - This EDA (Exploratory Data Analysis) is a analysis of how people affected the covid using Python libraries. EDA is a process of exploring data for analysis          ##### purpose. The steps involved in EDA are:
+  - This EDA (Exploratory Data Analysis) is a analysis of how people affected the covid using Python libraries. EDA is a process of exploring data for analysis          purpose. The steps involved in EDA are:
 
 - Preparing the Data: know the dataset, produce all details.
 - Cleaning the data for analysis: detect outliers and anomalies if any
