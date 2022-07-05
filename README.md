@@ -1,12 +1,12 @@
 # Edubridge-Data-Analytics
 This repository contains all the Projects, Competitions and Challenges of data analytics.
 ## Tools
-Python : Python3, NumPy, Pandas, Seaborn, Matplotlib
-Machine Learning: scikit-learn
-Statistics
-Excel
-Tableau
-R
+ - Python : Python3, NumPy, Pandas, Seaborn, Matplotlib
+ - Machine Learning: scikit-learn
+ - Statistics
+ - Excel
+ - Tableau
+ - R
 ## Skills
 Python3,R , Data Analysis, Statistical Modeling, Data Visualization, Statistics,Machine Learning,Tableau,.
 
