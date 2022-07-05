@@ -1,7 +1,7 @@
 ### Bike Buyers Prediction
 - A categorical dataset to determine whether a person buy a bike or not
 - The dataset contains details of the features of predicting ID,Marital Status,Gender,Income,Children,Education,Occupation,Home Owner,Cars,CommuteDistance,Region,Age,Purchased Bike.
-- Here we can split the data into two parts features and Target. Target being r and rest will be Purchased Bike features.
+- Here we can split the data into two parts features and Target. Target being Purchased Bike and rest will be  features.
 In this notebook, the prediction is made  whether a person buy a bike or not using suitable ML approach.
 The ML approach applied according to the data observation
 ### Structure:
