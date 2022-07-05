@@ -21,11 +21,18 @@ Python3,R , Data Analysis, Statistical Modeling, Data Visualization, Statistics,
   To build machine learning model to predict whether the person has diabetis or not
 - [Breast Cancer Prediction](https://github.com/AishaShamon/Edubridge-Data-Analytics/tree/main/Projects/breast%20cancer%20-M)
   To build machine learning model to predict whether the person has breast cancer or not.
+- [Studentsscore](
+  To build machine learning model to predict the score ofstudents 
   
   ##### Exploratory Data Analysis
-  - [Covid Analysis](https://github.com/AishaShamon/Edubridge-Data-Analytics/tree/main/Projects/Exploratory%20data%20analysis-COVID)
-   To explore how covid affect the people using Python Codes. This also give a quick insight on python codes for EDA.
-   -[IPL Analysis](
+- [Covid Analysis-Python](https://github.com/AishaShamon/Edubridge-Data-Analytics/tree/main/Projects/Exploratory%20data%20analysis-COVID).
+    To explore how covid affect the people using Python Codes. This also give a quick insight on python codes for EDA.
+- [IPL Analysis-python](https://github.com/AishaShamon/Edubridge-Data-Analytics/tree/main/Projects/Exploratory%20data%20analysis-ipl).
+    To explore the insights of IPL using Python Codes.
+- [Supermarket-Python]()
+    To explore supermarket dataset using Python Codes to provid information about sales,profit..
+- [Superstore-R](
+    Determine the sales relation with the education ans also gives a quick insight on R Codes.
 
 
 
