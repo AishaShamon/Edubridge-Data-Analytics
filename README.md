@@ -13,8 +13,8 @@ Python3,R , Data Analysis, Statistical Modeling, Data Visualization, Statistics,
 
 
 * Machine Learning Case Studies
-- [Drug classification]()
-[GitHub Pages](https://pages.github.com/).
+- [Drug classification](https://github.com/AishaShamon/Edubridge-Data-Analytics/tree/main/Projects/Drug%20Classification-ML).
+
 
 
 
