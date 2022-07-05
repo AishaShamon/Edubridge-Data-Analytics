@@ -1,8 +1,8 @@
 #### students score  Prediction
-A categorical dataset to predict the scoreof students
-The dataset contains details of the features of predicting Lung Cancer based on gender, age, and many other factors.
-Here we can split the data into two parts features and Target. Target being Lung Cancer and rest will be features.
-In this notebook, the prediction is made whether a person will have the chance of Lung cancer using linear regression.
+A categorical dataset to predict the score of students
+The dataset contains details of the features of predicting Hours	Scores
+Here we can split the data into two parts features and Target. Target being score and rest will be feature.
+In this notebook, the prediction score of students is made  using linear regression.
 The ML approach applied according to the data observation
 Structure:
 Part1: Reading the dataset
