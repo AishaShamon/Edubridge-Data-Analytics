@@ -21,7 +21,7 @@ Python3,R , Data Analysis, Statistical Modeling, Data Visualization, Statistics,
   To build machine learning model to predict whether the person has diabetis or not
 - [Breast Cancer Prediction](https://github.com/AishaShamon/Edubridge-Data-Analytics/tree/main/Projects/breast%20cancer%20-M)
   To build machine learning model to predict whether the person has breast cancer or not.
-- [Studentsscore](
+- [Studentsscore](https://github.com/AishaShamon/Edubridge-Data-Analytics/tree/main/Projects/student_score-linear%20regression)
   To build machine learning model to predict the score ofstudents 
   
   ##### Exploratory Data Analysis
