@@ -2,15 +2,15 @@
 This repository contains all the Projects, Competitions and Challenges of data analytics.
 ## Tools
 Python : Python3, NumPy, Pandas, Seaborn, Matplotlib
+Machine Learning: scikit-learn
+Statistics
+Excel
+Tableau
 R
 ## Skills
-Python3,R , Data Analysis, Statistical Modeling, Data Visualization, Statistics,Machine Learning.
+Python3,R , Data Analysis, Statistical Modeling, Data Visualization, Statistics,Machine Learning,Tableau,.
 
 ### Contents 
-* Data Visualization -using Excel and Tableau :
-
-
-
 
 ##### Machine Learning Case Studies
 - [Drug classification](https://github.com/AishaShamon/Edubridge-Data-Analytics/tree/main/Projects/Drug%20Classification-ML).
