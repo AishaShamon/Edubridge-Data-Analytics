@@ -12,8 +12,9 @@ Python3,R , Data Analysis, Statistical Modeling, Data Visualization, Statistics,
 
 
 
-* Machine Learning Case Studies
+##### Machine Learning Case Studies
 - [Drug classification](https://github.com/AishaShamon/Edubridge-Data-Analytics/tree/main/Projects/Drug%20Classification-ML).
+- [Bike Buyers Prediction] (
 
 
 
