@@ -34,7 +34,7 @@ Python3,R , Data Analysis, Statistical Modeling, Data Visualization, Statistics,
 - [Superstore-R](https://github.com/AishaShamon/Edubridge-Data-Analytics/tree/main/Projects/Superstore-R)
     Determine the sales relation with the education ans also gives a quick insight on R Codes.
 ##### Web Scrapping 
-- Web Scrapping : Main purpose is to scrap the data
+- [Web Scrapping](https://github.com/AishaShamon/Edubridge-Data-Analytics/tree/main/Projects/flipcart-webscrapping) : Main purpose is to scrap the data
 
 
 
