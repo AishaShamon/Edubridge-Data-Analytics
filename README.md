@@ -19,6 +19,8 @@ Python3,R , Data Analysis, Statistical Modeling, Data Visualization, Statistics,
   To build machine learning model to predict whether the users buy or not buy a bike.
 - [Diabetis prediction](https://github.com/AishaShamon/Edubridge-Data-Analytics/tree/main/Projects/Diabetis-ml)
   To build machine learning model to predict whether the person has diabetis or not
+- [Breast Cancer Prediction](https://github.com/AishaShamon/Edubridge-Data-Analytics/tree/main/Projects/breast%20cancer%20-M)
+  To build machine learning model to predict whether the person has breast cancer or not
 
 
 
